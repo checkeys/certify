@@ -1,4 +1,4 @@
-# Custom Certificate
+# Certify
 
 > Create Self-Signed SSL Certificates
 
